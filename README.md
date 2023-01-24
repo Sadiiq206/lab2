@@ -21,17 +21,18 @@ UW Seattle
 wordcloud-1
 example from lab2.
 
-wordcloud-2(south)
-Distance to Federal Way:
-23.69mi
+wordcloud-4(north)
+Distance to Lynwood:
+14.96mi
 
 wordcloud-3(east)
 Distance to Redmond:
 10.66mi
 
-wordcloud-4(north)
-Distance to Lynwood:
-14.96mi
+wordcloud-2(south)
+Distance to Federal Way:
+23.69mi
+
 
 wordcloud-5(west)
 Distance to Bremertan:
