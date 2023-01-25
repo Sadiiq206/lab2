@@ -44,7 +44,7 @@ Distance to Bremertan:
 13.90mi
 
 # Summary
-The topic of my research is the usage of the keyword "BLM" on Twitter, with a focus on the geographical differences in the usage of the keyword around the University of Washington Seattle campus. The parameters used for my research included running the keyword "BLM" through the Twitter API and using a word cloud to generate a visualization of the most common words associated with the keyword in the North, East, South, and West areas of the UW Seattle campus.
+The topic of my research is the usage of the keyword "BLM" on Twitter, with a focus on the geographical differences in the usage of the keyword around the University of Washington Seattle campus. The parameters used for my research included running the keyword "BLM" through the Twitter API and using a word cloud to generate a visualization of the most common words associated with the keyword in the North, East, South, and West areas of the UW Seattle campus. The date since June 9th, 2020, the day of the Capital Hill protest.
 
 I wanted to make this comparison because I was interested in understanding how the usage of the keyword "BLM" varies across different regions around the UW Seattle campus. I wanted to see if there were any patterns or differences in the way the keyword was used in different areas around the university, and if so, what might be the reasons for these patterns.
 
